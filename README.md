@@ -1,4 +1,4 @@
-## Math Keyboard Developed by Ajay N and Arshad Zanin.
+## Math Keyboard Developed by Ajay N
 
 
 `math_keyboard` is a  package that allows editing math expressions using a typeset input
